@@ -58,7 +58,7 @@ Scraped search terms are stored in `./data/non_image_scrape/queries.txt`. Once t
 1. Clone this repository:
 
    ```
-   $ git clone ___
+   $ git clone https://github.com/RaphaelCaloz/youtube-data-scraper.git
    ```
 
 2. Install the required python libraries:
