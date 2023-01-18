@@ -2,7 +2,7 @@
 
 ## Data Scraper
 
-This part of the project navigates YouTube to collect video data (thumbnail images and tabular data). Since YouTube's API greatly limits the number of queries per day, it is not practical to build a dataset with it. This data scraper bypasses the API by simulating a human user navigating the website, collecting data along the way. This makes the collection of a substantial dataset tractable.
+This part of the project navigates YouTube to collect video data (thumbnail images and tabular data). Since YouTube's API greatly limits the number of queries per day, it is not practical to build a dataset with it. This data scraper bypasses the API by simulating a human user navigating the website, collecting data along the way. This makes the collection of a substantial dataset practical.
 
 <br>
 
