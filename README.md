@@ -3,6 +3,9 @@
 ## Data Scraper
 
 This part of the project navigates YouTube to collect video data (thumbnail images and tabular data). Since YouTube's API greatly limits the number of queries per day, it is not practical to build a dataset with it. This data scraper bypasses the API by simulating a human user navigating the website, collecting data along the way. This makes the collection of a substantial dataset tractable.
+
+<br>
+
 <img src="./readme_images/data_scraper_animation.gif" width="720"/>
 
 _The data scraper navigating YouTube._
@@ -12,6 +15,9 @@ _The data scraper navigating YouTube._
 ## Query Scraper
 
 The query scraper, which was specifically built for this project, collects YouTube auto-suggestions, which the data scraper inputs into the search bar to find videos.
+
+<br>
+
 <img src="./readme_images/query_scraper_animation.gif" width="720"/>
 
 _The query scraper collecting search terms._
