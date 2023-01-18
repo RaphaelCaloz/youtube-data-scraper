@@ -1,0 +1,4 @@
+*.jpg
+data/non_image_scrape/*
+data/images/*
+data/scraper/*
